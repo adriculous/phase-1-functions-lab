@@ -41,11 +41,11 @@ function distanceTravelledInFeet(startBlock, arriveBlock) {
 
 function calculatesFarePrice(startBlock, arriveBlock) {
   const myRide = distanceTravelledInFeet(startBlock, arriveBlock);
+  const flatFare = 25;
   if (myRide > 400 && myRide <= 2000) {
     return (myRide - 400) * 0.02;
   } else if (myRide > 2000 && myRide <= 2500) {
-    const fare = 25;
-    return fare;
+    return flatFare;
   } else if (myRide > 2500) {
     return "cannot travel that far";
   } else {

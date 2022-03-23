@@ -5,16 +5,16 @@
     "passes": 13,
     "pending": 0,
     "failures": 0,
-    "start": "2022-03-23T05:47:23.755Z",
-    "end": "2022-03-23T05:47:24.625Z",
-    "duration": 870
+    "start": "2022-03-23T05:59:16.409Z",
+    "end": "2022-03-23T05:59:17.330Z",
+    "duration": 921
   },
   "tests": [
     {
       "title": "returns a distance in blocks",
       "fullTitle": "index.js distanceFromHqInBlocks() returns a distance in blocks",
       "file": "/Users/adriculous/Development/code/phase-1-functions-lab/test/indexTest.js",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -77,7 +77,7 @@
       "title": "returns a distance in feet",
       "fullTitle": "index.js distanceTravelledInFeet() returns a distance in feet",
       "file": "/Users/adriculous/Development/code/phase-1-functions-lab/test/indexTest.js",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -95,7 +95,7 @@
       "title": "gives customers a free sample",
       "fullTitle": "index.js calculatesFarePrice(start, destination) gives customers a free sample",
       "file": "/Users/adriculous/Development/code/phase-1-functions-lab/test/indexTest.js",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -135,7 +135,7 @@
       "title": "returns a distance in blocks",
       "fullTitle": "index.js distanceFromHqInBlocks() returns a distance in blocks",
       "file": "/Users/adriculous/Development/code/phase-1-functions-lab/test/indexTest.js",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -198,7 +198,7 @@
       "title": "returns a distance in feet",
       "fullTitle": "index.js distanceTravelledInFeet() returns a distance in feet",
       "file": "/Users/adriculous/Development/code/phase-1-functions-lab/test/indexTest.js",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -216,7 +216,7 @@
       "title": "gives customers a free sample",
       "fullTitle": "index.js calculatesFarePrice(start, destination) gives customers a free sample",
       "file": "/Users/adriculous/Development/code/phase-1-functions-lab/test/indexTest.js",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
